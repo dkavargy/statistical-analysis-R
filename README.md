@@ -61,3 +61,18 @@ Then, you can run the script by executing:
 ```bash
 ./install_packages.sh
 ```
+## 🔍 Exploratory Data Analysis
+
+### Histogram of Housing Price
+![hph](https://github.com/dkavargy/statistical-analysis-R/assets/73905168/caffd46d-2f9f-46a8-856b-3ab0f32b5e46)
+
+### Distribution of bedroom 
+![dsb](https://github.com/dkavargy/statistical-analysis-R/assets/73905168/76787d42-85ac-4429-8e35-cea1c94a1ab3)
+
+### Correlation between variables
+![cor](https://github.com/dkavargy/statistical-analysis-R/assets/73905168/1716d7d1-9048-4f48-8c54-4f03a6e4564d)
+
+### Correlation Price-Age
+![pri-age](https://github.com/dkavargy/statistical-analysis-R/assets/73905168/35737248-fcc4-4c4b-abca-04c4d81309ca)
+
+
